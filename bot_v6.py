@@ -299,4 +299,4 @@ async def board(ctx):
     await ctx.reply (f"Tu as {global_points.get(player)} points ")
 
 
-client.run("MTA0NDg5OTMxOTQ5NDQ3NTc4Nw.Gk52XP.pJ3BqFCuyhGXJDol5DiHWoZASispPqN3eXq-Zo")
+client.run(DISCORD_TOKEN)
