@@ -1,4 +1,5 @@
-# discord-bot-dicoguesser
+# discord-bot-dicoguesser (20/20)
+
 Discord bot that allows users to play the MOTUS word game with their server.
 
 ## Bot's commands :
@@ -7,4 +8,3 @@ Discord bot that allows users to play the MOTUS word game with their server.
 - !board to display the ladder
 - !end to end a game
 - !rules
-
