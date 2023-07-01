@@ -8,3 +8,7 @@ Discord bot that allows users to play the MOTUS word game with their server.
 - !board to display the ladder
 - !end to end a game
 - !rules
+
+## Documentation
+
+- [Discord Dev Tools](https://discord.com/developers/docs/intro)
